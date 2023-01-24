@@ -1,1 +1,1 @@
-# marcura_test
+# Marcura repository for shared files
